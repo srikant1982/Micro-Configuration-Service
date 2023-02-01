@@ -1,4 +1,6 @@
 my:
   firstname: srikant
-  
   lastname: panda
+spring:
+  application:
+    name: Config-Default
